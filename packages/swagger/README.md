@@ -1,2 +1,0 @@
-# @esmkit/express-swagger
-
